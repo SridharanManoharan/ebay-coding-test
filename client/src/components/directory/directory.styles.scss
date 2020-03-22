@@ -1,0 +1,30 @@
+.directory-menu {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.directory-wrapper {
+  width: 100%;
+}
+
+.description {
+  padding-left: 10px;
+}
+
+.write-message {
+  padding: 0;
+  margin: 0 10px;
+
+  hr {
+    padding: 0;
+    margin: 0;
+    background-color: #000000;
+  }
+
+  p {
+    margin-bottom: 0px;
+    margin-top: 50px;
+  }
+}
